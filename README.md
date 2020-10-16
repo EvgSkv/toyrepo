@@ -1,4 +1,4 @@
-# toyrepo
+# A toyrepo
 
 This is a toy repo.
 
